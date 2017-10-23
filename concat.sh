@@ -7,4 +7,5 @@ header.md \
 1930.md \
 1940.md \
 1950.md \
+1960.md \
 footer.md
