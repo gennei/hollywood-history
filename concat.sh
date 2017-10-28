@@ -10,4 +10,5 @@ header.md \
 1960.md \
 1970.md \
 1980.md \
+1990.md \
 footer.md > history.md
