@@ -12,6 +12,16 @@
 - 1910年代: 映画文法の誕生
 - 1920年代: 映画業界の誕生
 - 1930年代: ハリウッド黄金期
+- 1940年代: ハリウッド衰退の始まり
+
+---
+
+- 1950年代: ハリウッド停滞期
+- 1960年代: 作家主義の到来
+- 1970年代: コーマン帝国
+- 1980年代: ハイ・コンセプト
+- 1990年代: ハリウッド帝国
+- 2000年代: ???
 
 ---
 
@@ -1040,5 +1050,20 @@ TVの登場によりスクリーンで映像を見るだけの体験以外も提
 
 # 参考文献
 - [新板ハリウッド100年史講義](https://www.amazon.co.jp/dp/458285849X)
+- [フランス映画史の誘惑](https://www.amazon.co.jp/dp/4087201791)
 - [世界シネマ大事典](https://www.amazon.co.jp/dp/4385162328)
 - [アメリカに見るメディア業界の買収合戦](https://www.nri.com/jp/opinion/chitekishisan/2005/pdf/cs20050507.pdf)
+
+---
+
+# 関連イベント
+- [ヒッチコック/トリュフォー](http://www.wasedashochiku.co.jp/lineup/2017/hitchcock.html)
+
+---
+
+# 動画
+- [Edison Kinetoscope films](https://www.youtube.com/watch?v=686Y7bZYavA)
+- [ラ・シオタ駅への列車の到着](https://www.youtube.com/watch?v=NmxktCi6zoQ)
+- [月世界旅行](https://www.youtube.com/watch?v=HSZ8QmCOAX4)
+- [アメリカ消防士の生活](https://www.youtube.com/watch?v=6ym7-QW_GWo)
+- [大列車強盗](https://www.youtube.com/watch?v=y3jrB5ANUUY)
